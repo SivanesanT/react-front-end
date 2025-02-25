@@ -29,11 +29,8 @@ const Studentdetails = () => {
                 <th className="border border-gray-300 px-4 py-2 text-left">Names</th>
                 <th className="border border-gray-300 px-4 py-2 text-left">Ages</th>
                 <th className="border border-gray-300 px-4 py-2 text-left">Descriptions</th>
-<<<<<<< HEAD
-                <th className="border border-gray-300 px-4 py-2 text-left">Native</th>
-=======
                 <th className="border border-gray-300 px-4 py-2 text-left">Natives</th>
->>>>>>> dev
+
                 {/* <th className="border border-gray-300 px-4 py-2 text-left">Created At</th> */}
                 <th className="border border-gray-300 px-4 py-2 text-left">Update</th>
                 <th className="border border-gray-300 px-4 py-2 text-left">Delete</th>
