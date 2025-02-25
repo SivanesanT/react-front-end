@@ -26,10 +26,10 @@ const Studentdetails = () => {
             <table className="min-w-full border-collapse border border-gray-200">
             <thead>
                 <tr className="bg-gray-100">
-                <th className="border border-gray-300 px-4 py-2 text-left">Name</th>
-                <th className="border border-gray-300 px-4 py-2 text-left">Age</th>
-                <th className="border border-gray-300 px-4 py-2 text-left">Description</th>
-                <th className="border border-gray-300 px-4 py-2 text-left">Native</th>
+                <th className="border border-gray-300 px-4 py-2 text-left">Names</th>
+                <th className="border border-gray-300 px-4 py-2 text-left">Ages</th>
+                <th className="border border-gray-300 px-4 py-2 text-left">Descriptions</th>
+                <th className="border border-gray-300 px-4 py-2 text-left">Natives</th>
                 {/* <th className="border border-gray-300 px-4 py-2 text-left">Created At</th> */}
                 <th className="border border-gray-300 px-4 py-2 text-left">Update</th>
                 <th className="border border-gray-300 px-4 py-2 text-left">Delete</th>
